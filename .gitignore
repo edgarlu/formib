@@ -1,0 +1,44 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 临时视频文件
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# 字幕文件（测试产物）
+*.srt
+*.vtt
+*.ass
+
+# 下载目录
+downloads/
+
+# 环境变量
+.env
+.env.local
+
+# 词表（如果包含敏感信息）
+# glossary.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
